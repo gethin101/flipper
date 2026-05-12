@@ -17,3 +17,5 @@
 | **Vibration Motor** | Haptic Feedback | — | Provides vibration alerts and UI feedback | Makes the Flipper buzz when something happens |
 | **Li‑Po Battery (2000 mAh)** | Power | — | Internal rechargeable power source | Keeps the Flipper running for hours; charges via USB‑C |
 | **USB‑C Port** | Data + Charging | USB HID, Serial | Charging, firmware updates, USB keyboard/mouse emulation | Lets you plug into a PC, charge, or act as a USB device |
+
+<img width="495" height="419" alt="image" src="https://github.com/user-attachments/assets/e020c096-45ee-444b-bc78-ef7c77574b3f" />
