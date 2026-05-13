@@ -50,4 +50,4 @@
 | Buttons   | Holes or caps over tact switches         | User input                       | D‑pad cluster + Back button area |
 
 
-
+microcontroller: [**ESP32-S3 N16R8**](https://www.aliexpress.com/item/1005008802548399.html?spm=a2g0o.productlist.main.4.16805b8bLcQC9c&aem_p4p_detail=2026051300061364889836946000001286645&algo_pvid=065022e8-42c5-42b5-aaff-ecf169ed9b74&algo_exp_id=065022e8-42c5-42b5-aaff-ecf169ed9b74-3&pdp_ext_f=%7B%22order%22%3A%22353%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.02%213.02%21%21%2120.38%2120.38%21%40211b6c1917786559729193403ec478%2112000046724186220%21sea%21UK%217850874718%21X%211%210%21n_tag%3A-29919%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=Hasi70aH9CrQ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008802548399%7C_p_origin_prod%3A&search_p4p_id=2026051300061364889836946000001286645_1)
