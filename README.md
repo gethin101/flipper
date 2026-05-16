@@ -79,6 +79,14 @@ navigation controls:
 -  [SS-12D00G 5mm switch](https://www.aliexpress.com/item/1005007585395420.html?spm=a2g0o.productlist.main.3.3a11rYu6rYu6AY&algo_pvid=3c9a1384-d88a-4988-92dc-b33baa922f93&algo_exp_id=3c9a1384-d88a-4988-92dc-b33baa922f93-2&pdp_ext_f=%7B%22order%22%3A%22847%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%212.08%211.17%21%21%2118.53%2110.38%21%40211b813f17787776971403762e05ff%2112000042242296593%21sea%21UK%217850874718%21X%211%210%21n_tag%3A-29919%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=5G2ubWLAgnKZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007585395420%7C_p_origin_prod%3A)
 -  [DD0403MB 3.3V LDO Module - 3V3 no pin](https://www.aliexpress.com/item/33054550198.html?spm=a2g0o.productlist.main.2.31eegP4ugP4uoZ&algo_pvid=c6b2fa6d-d6c6-4f60-b363-b4918f14f556&algo_exp_id=c6b2fa6d-d6c6-4f60-b363-b4918f14f556-1&pdp_ext_f=%7B%22order%22%3A%22815%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.80%213.80%21%21%213.80%213.80%21%402103894417789244828817565e26fa%2167459833680%21sea%21GB%217850874718%21X%211%210%21n_tag%3A-29919%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=8U80IYDtGI2M&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A33054550198%7C_p_origin_prod%3A#nav-specification)
 
+  # functions
+  - IR receive & transmit
+  - Sub-ghz receive & transmit + antenna
+  - WiFi & Bluetooth
+  - SD card storage
+  - Power charging
+  - OLED display + nav buttons
+
 
 
 
