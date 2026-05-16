@@ -82,7 +82,7 @@ navigation controls:
   # functions
   - IR receive & transmit
   - Sub-ghz receive & transmit + antenna
-  - WiFi & Bluetooth
+  - WiFi & Bluetooth LE
   - SD card storage
   - Power charging
   - OLED display + nav buttons
